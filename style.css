@@ -132,11 +132,11 @@ main {
 	}
 
 	.card {
-		width: 60%;
+		width: 100%;
 	}
 
 	.flex-container {
-		width: 60%;
+		width: 100%;
 		align-items: center;
 		justify-content: center;
 	}
@@ -169,7 +169,6 @@ main {
 
 	.flex-container,
 	.card {
-		width: 100%;
 		max-width: 300px;
 	}
 
