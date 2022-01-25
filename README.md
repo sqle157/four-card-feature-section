@@ -1,8 +1,6 @@
-# Frontend Mentor - NFT preview card component solution
+# Frontend Mentor - Four card feature section solution
 
-This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
-## Overview
+This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ### The challenge
 
@@ -17,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Here](https://github.com/sqle157/nft.github.io)
-- Live Site URL: [Here](https://sqle157.github.io/nft.github.io/)
+- Solution URL: [Here](https://github.com/sqle157/four-card-feature-section)
+- Live Site URL: [Here](https://sqle157.github.io/four-card-feature-section)
 
 ### Built with
 
